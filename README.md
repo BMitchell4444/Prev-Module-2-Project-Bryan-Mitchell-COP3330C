@@ -1,1 +1,3 @@
-# Prev-Module-2-Project-COP3330C
+Bryan Mitchell CEN3024C 15339
+
+This program asks the user for five loans and displays a list of the loans and some summary information consisting of the total amounts loaned for business loans, personal loans, and the total amount of money loaned. It also displays what loans are the same if any. The program asks the user for the prime interest rate for loans, loan type, loan number, loanee's last name, loan amount, and whether it is a 3-year, 7-year, or 15-year loan. The program will prompt the user for five loans and will then display the loan information for the five loans. The list will include the information entered by the user in addition to the interest accrued and the total amount due by the end of the term. The purpose of this project was to learn about classes, extensions, and implementations. The business and personal loan classes extend the loan class, and the loan class implements the loan constants interface.
